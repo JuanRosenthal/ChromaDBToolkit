@@ -20,5 +20,5 @@ Follow the steps in the [Configuration](#configuration) section to properly set 
 
 Run the programm with following command in the project root folder:
 ```plaintext
-    streamlit run app.py
+streamlit run app.py
 ```
